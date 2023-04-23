@@ -17,3 +17,6 @@ https://vuddus526.tistory.com/24
 
 # 06. 프로그래밍 언어 활용<br>
 https://vuddus526.tistory.com/25
+
+# 07. SQL 응용<br>
+https://vuddus526.tistory.com/26
