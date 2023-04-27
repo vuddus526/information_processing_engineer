@@ -26,3 +26,6 @@ https://vuddus526.tistory.com/27
 
 # 09. 소프트웨어 개발 보안 구축<br>
 https://vuddus526.tistory.com/28
+
+# 10. 애플리케이션 테스트 관리<br>
+https://vuddus526.tistory.com/29
