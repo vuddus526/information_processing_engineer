@@ -29,3 +29,6 @@ https://vuddus526.tistory.com/28
 
 # 10. 애플리케이션 테스트 관리<br>
 https://vuddus526.tistory.com/29
+
+# 11. 응용 SW 기초 기술 활용<br>
+https://vuddus526.tistory.com/30
