@@ -32,3 +32,6 @@ https://vuddus526.tistory.com/29
 
 # 11. 응용 SW 기초 기술 활용<br>
 https://vuddus526.tistory.com/30
+
+# 12. 제품 소프트웨어 패키징<br>
+https://vuddus526.tistory.com/31
