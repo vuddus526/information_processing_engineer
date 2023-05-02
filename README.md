@@ -35,3 +35,6 @@ https://vuddus526.tistory.com/30
 
 # 12. 제품 소프트웨어 패키징<br>
 https://vuddus526.tistory.com/31
+
+# 13. 주요 단어 모아보기<br>
+https://vuddus526.tistory.com/32
